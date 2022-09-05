@@ -1,0 +1,19 @@
+﻿  [Test] Priority_Queue.cpp
+D:\Program Files\陕西科技大学\学习\手写数据结构计划\Remake Priority_Queue\Remake Priority_Queue\Chen.h(94,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\Program Files\陕西科技大学\学习\手写数据结构计划\Remake Priority_Queue\Remake Priority_Queue\Chen.h(92): message : 在编译 类 模板 成员函数“void Chen::priority_queue<int,std::vector<T,std::allocator<T>>,Chen::less<T>>::AdjustDown(int)”时
+          with
+          [
+              T=int
+          ]
+D:\Program Files\陕西科技大学\学习\手写数据结构计划\Remake Priority_Queue\Remake Priority_Queue\Chen.h(54): message : 查看对正在编译的函数 模板 实例化“void Chen::priority_queue<int,std::vector<T,std::allocator<T>>,Chen::less<T>>::AdjustDown(int)”的引用
+          with
+          [
+              T=int
+          ]
+D:\Program Files\陕西科技大学\学习\手写数据结构计划\Remake Priority_Queue\Remake Priority_Queue\[Test] Priority_Queue.cpp(5): message : 查看对正在编译的 类 模板 实例化“Chen::priority_queue<int,std::vector<T,std::allocator<T>>,Chen::less<T>>”的引用
+          with
+          [
+              T=int
+          ]
+D:\Program Files\陕西科技大学\学习\手写数据结构计划\Remake Priority_Queue\Remake Priority_Queue\Chen.h(96,19): warning C4018: “<”: 有符号/无符号不匹配
+  Remake Priority_Queue.vcxproj -> D:\Program Files\陕西科技大学\学习\手写数据结构计划\Remake Priority_Queue\Remake Priority_Queue\Debug\Remake Priority_Queue.exe

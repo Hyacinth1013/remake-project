@@ -1,0 +1,3 @@
+﻿  Focus.cpp
+D:\Program Files\陕西科技大学\学习\手写数据结构计划\Sequential Stack\Focus.cpp(49): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  Sequential Stack.vcxproj -> D:\Program Files\陕西科技大学\学习\手写数据结构计划\Sequential Stack\Debug\Sequential Stack.exe

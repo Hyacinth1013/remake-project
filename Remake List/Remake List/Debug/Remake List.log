@@ -1,0 +1,7 @@
+﻿  [Test] List.cpp
+D:\Program Files\陕西科技大学\学习\手写数据结构计划\Remake List\Remake List\bit.h(103,1): error C2664: “void bit::list<int>::swap(bit::list<int> &)”: 无法将参数 1 从“const bit::list<int>”转换为“bit::list<int> &”
+D:\Program Files\陕西科技大学\学习\手写数据结构计划\Remake List\Remake List\bit.h(103,15): message : 转换丢失限定符
+D:\Program Files\陕西科技大学\学习\手写数据结构计划\Remake List\Remake List\bit.h(180,8): message : 参见“bit::list<int>::swap”的声明
+D:\Program Files\陕西科技大学\学习\手写数据结构计划\Remake List\Remake List\bit.h(102): message : 在编译 类 模板 成员函数“bit::list<int> &bit::list<int>::operator =(const bit::list<int>)”时
+D:\Program Files\陕西科技大学\学习\手写数据结构计划\Remake List\Remake List\[Test] List.cpp(28): message : 查看对正在编译的函数 模板 实例化“bit::list<int> &bit::list<int>::operator =(const bit::list<int>)”的引用
+D:\Program Files\陕西科技大学\学习\手写数据结构计划\Remake List\Remake List\[Test] List.cpp(17): message : 查看对正在编译的 类 模板 实例化“bit::list<int>”的引用

@@ -1,0 +1,2 @@
+D:\Program Files\陕西科技大学\学习\代码库\Cpp\Linked Stack\Debug\Linked Stack.exe
+D:\Program Files\陕西科技大学\学习\手写数据结构计划\Linked Stack\Debug\Linked Stack.exe
